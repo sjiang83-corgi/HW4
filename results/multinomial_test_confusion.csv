@@ -1,0 +1,8 @@
+,bending1,bending2,cycling,lying,sitting,standing,walking
+bending1,2,0,0,0,0,0,0
+bending2,0,2,0,0,0,0,0
+cycling,0,0,3,0,0,0,0
+lying,0,0,0,3,0,0,0
+sitting,0,0,0,0,2,1,0
+standing,0,0,0,0,1,2,0
+walking,0,0,0,0,0,0,3

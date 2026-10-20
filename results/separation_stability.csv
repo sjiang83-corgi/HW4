@@ -1,0 +1,4 @@
+tolerance,iterations,coefficient_norm,training_accuracy
+0.0001,20,23.839384647758436,1.0
+1e-06,25,30.83586901625195,1.0
+1e-08,31,40.51737684548718,1.0
